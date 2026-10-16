@@ -1,0 +1,14 @@
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.AssemblyInfo.cs
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\bin\Debug\net10.0\Array練習.exe
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\bin\Debug\net10.0\Array練習.deps.json
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\bin\Debug\net10.0\Array練習.runtimeconfig.json
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\bin\Debug\net10.0\Array練習.dll
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\bin\Debug\net10.0\Array練習.pdb
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.dll
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\refint\Array練習.dll
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.pdb
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\Array練習.genruntimeconfig.cache
+C:\Users\jenni\Desktop\VScode\C#練習\Array練習\obj\Debug\net10.0\ref\Array練習.dll

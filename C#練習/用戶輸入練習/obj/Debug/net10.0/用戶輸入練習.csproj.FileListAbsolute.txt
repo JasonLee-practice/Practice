@@ -1,0 +1,14 @@
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.AssemblyInfo.cs
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\bin\Debug\net10.0\用戶輸入練習.exe
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\bin\Debug\net10.0\用戶輸入練習.deps.json
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\bin\Debug\net10.0\用戶輸入練習.runtimeconfig.json
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\bin\Debug\net10.0\用戶輸入練習.dll
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\bin\Debug\net10.0\用戶輸入練習.pdb
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.dll
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\refint\用戶輸入練習.dll
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.pdb
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\用戶輸入練習.genruntimeconfig.cache
+C:\Users\jenni\Desktop\VScode\C#練習\用戶輸入練習\obj\Debug\net10.0\ref\用戶輸入練習.dll

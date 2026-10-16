@@ -1,0 +1,14 @@
+C:\Users\jenni\Desktop\VScode\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Users\jenni\Desktop\VScode\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\jenni\Desktop\VScode\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Users\jenni\Desktop\VScode\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\jenni\Desktop\VScode\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\jenni\Desktop\VScode\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
